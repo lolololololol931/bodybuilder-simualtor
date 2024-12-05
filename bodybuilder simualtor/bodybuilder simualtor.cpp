@@ -100,11 +100,7 @@ int main() {
             rest = 0;
             continue;
         }
-
     }
-
-
-
     return 0;
 }
 
